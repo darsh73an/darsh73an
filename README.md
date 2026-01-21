@@ -4,9 +4,5 @@ I'm Darshan — a Computer Science student and developer passionate about DSA, W
 
 ---
 
-## 🔥 GitHub Streak (Text Version)
-
-- 🔁 **Current Streak:** Active contributor  
-- 🏆 **Longest Streak:** Maintained regular daily commits  
-- 📊 **Total Contributions (Last Year):** 64  
-- 📅 **Consistency:** Contributing across multiple weeks and months  
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanr77&theme=dark)
