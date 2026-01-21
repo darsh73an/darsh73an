@@ -4,4 +4,7 @@ I'm Darshan — a Computer Science student and developer passionate about DSA, W
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=darshanr77&theme=github-dark&hide_border=true)
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=darshanr77&theme=github-dark&hide_border=true" />
+
