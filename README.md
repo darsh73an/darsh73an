@@ -44,7 +44,7 @@ Building with DSA | Full-Stack Fundamentals
 ---
 
 ### 🔗 Coding Profiles
-- 🧠 **LeetCode:** https://leetcode.com/your-username  
+- 🧠 **LeetCode:** https://leetcode.com/darshankok
 - 💻 **GitHub:** https://github.com/darshanr77  
 
 ---
