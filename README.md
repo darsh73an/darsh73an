@@ -16,7 +16,7 @@ Building with DSA | Full-Stack Fundamentals
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** C++, C, JavaScript  
+- **Languages:** C++,JavaScript  
 - **DSA:** Arrays, Strings, Recursion, Sorting, Searching, Linked List, Stack, Queue  
 - **Backend:** Node.js, Express (learning)  
 - **Tools:** Git, GitHub, Linux, VS Code  
@@ -28,19 +28,9 @@ Building with DSA | Full-Stack Fundamentals
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanr77&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshanr77&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr77&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -48,9 +38,5 @@ Building with DSA | Full-Stack Fundamentals
 - 🧠 **LeetCode:** https://leetcode.com/darshankok
 - 💻 **GitHub:** https://github.com/darshanr77  
 
----
 
-### ✨ Motto
-> *Consistency beats talent when talent doesn’t practice.*
 
-⭐ Feel free to check out my repositories and follow my journey!
