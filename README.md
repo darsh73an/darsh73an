@@ -30,9 +30,7 @@ Building with DSA | Full-Stack Fundamentals
 
 ### 🔥 GitHub Streak
 <p align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanr77&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanr77&theme=tokyonight&cache_seconds=86400)
 </p>
 
 
