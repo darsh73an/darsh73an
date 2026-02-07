@@ -30,8 +30,9 @@ Building with DSA | Full-Stack Fundamentals
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshanr77&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight" />
 </p>
+
 
 
 
