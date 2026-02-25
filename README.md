@@ -11,7 +11,6 @@ Building with DSA | Full-Stack Fundamentals
 - 💡 Focused on **Data Structures & Algorithms**
 - 🛠️ Working with **C++, JavaScript, Node.js**
 - 🚀 Actively preparing for **software engineering placements**
-- 📚 Practicing problems on **LeetCode & GitHub daily**
 
 ---
 
@@ -24,7 +23,8 @@ Building with DSA | Full-Stack Fundamentals
 ---
 
 ### 📂 Featured Repositories
-- 🔹 **DSA** – Data Structures & Algorithms in C++  
+- 🔹 **DSA** – Data Structures & Algorithms in C++
+- 🔹 **webdev** – Web development  
 
 ---
 
