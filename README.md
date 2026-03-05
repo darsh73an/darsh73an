@@ -13,9 +13,16 @@
 - 💡 Focused on **Data Structures & Algorithms**  
 - 🛠️ Working with **C++ & JavaScript**  
 - 🚀 Preparing for **Software Engineering placements**
+  
+ ---
+ 
+### 🔥 GitHub Streak
+
+<p align="center">
+<img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=tokyonight"/>
+</p>
 
 ---
-
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -32,14 +39,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-<img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=tokyonight"/>
 </p>
 
 ---
