@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science & Engineering student  
 - 💡 Focused on **Data Structures & Algorithms**  
-- 🛠️ Working with **C++ & JavaScript**  
+- 🛠️ Working with **C++ & MERN Stack**  
 - 🚀 Preparing for **Software Engineering placements**
   
  ---
