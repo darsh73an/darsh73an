@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Darshan R</h1>
+<h1 align="center">Hi 👋, I'm Darshan R</h1>
 <h3 align="center">Building with DSA | Full-Stack Fundamentals</h3>
 
 <p align="center">
@@ -7,43 +7,76 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering student  
+- 🎓 Computer Science & Engineering Student  
 - 💡 Focused on **Data Structures & Algorithms**  
-- 🛠️ Working with **C++ & MERN Stack**  
-- 🚀 Preparing for **Software Engineering placements**
-  
- ---
- 
-### 🔥 GitHub Streak
+- 🛠️ Building projects with **C++ & MERN Stack**  
+- 🚀 Preparing for **Software Engineering Placements**  
+- 🐧 Linux enthusiast  
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-<img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=tokyonight"/>
+<img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
-### 🧰 Tech Stack
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr77&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🔗 Coding Profiles
+## 🔗 Coding Profiles
 
-- 🧠 **LeetCode:** https://leetcode.com/darshankok  
-- 💻 **GitHub:** https://github.com/darshanr77  
+- 🧠 **LeetCode:**  
+  https://leetcode.com/darshankok  
+
+- 💻 **GitHub:**  
+  https://github.com/darshanr77  
+
+---
+
+<p align="center">
+⭐ Consistency beats intensity — Keep Building Every Day 🚀
+</p>
