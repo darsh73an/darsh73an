@@ -25,19 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanr77&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-
-</p>
-
----
-
-
 ## 🧠 Tech Stack
 
 ### 🧠 DSA
