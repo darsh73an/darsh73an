@@ -35,8 +35,6 @@
 
 <img src="https://img.shields.io/badge/Data%20Structures-Problem%20Solving-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Algorithms-DSA-important?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -96,5 +94,5 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr77&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr77&theme=dark"/>
 </p>
