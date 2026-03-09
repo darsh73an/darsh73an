@@ -20,7 +20,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=tokyonight&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
 </p>
 
 ---
@@ -37,13 +37,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr77&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🧠 Tech Stack
 
@@ -113,6 +106,8 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
 <p align="center">
-⭐ Consistency beats intensity — Keep Building Every Day 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanr77&theme=tokyo-night"/>
 </p>
