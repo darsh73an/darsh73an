@@ -35,6 +35,8 @@
 
 <img src="https://img.shields.io/badge/Data%20Structures-Problem%20Solving-blue?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Algorithms-DSA-important?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -46,6 +48,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
