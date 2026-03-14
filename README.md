@@ -15,6 +15,14 @@
 * 🚀 Preparing for **Software Engineering Placements**
 * 🐧 Linux enthusiast
 
+ ## 🔗 Coding Profiles
+
+ 🧠 **LeetCode:**
+  https://leetcode.com/darshankok
+
+ 💻 **GitHub:**
+  https://github.com/darshanr77
+
 ---
 
 ## 🔥 GitHub Streak
@@ -85,10 +93,4 @@
 
 ---
 
-## 🔗 Coding Profiles
 
-* 🧠 **LeetCode:**
-  https://leetcode.com/darshankok
-
-* 💻 **GitHub:**
-  https://github.com/darshanr77
