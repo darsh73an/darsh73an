@@ -27,7 +27,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img height="100" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
+<img height="139" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
 </p>
 
 ---
