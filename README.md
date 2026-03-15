@@ -17,18 +17,17 @@
 
 ## 🔗 Coding Profiles
 
-🧠 **LeetCode:** [https://leetcode.com/darshankok](https://leetcode.com/darshankok)  
-[https://www.geeksforgeeks.org/profile/darshankok](https://www.geeksforgeeks.org/profile/darshankok)  
-[https://codeforces.com/profile/Darshankok](https://codeforces.com/profile/Darshankok)  
-
-💻 **GitHub:** [https://github.com/darshanr77](https://github.com/darshanr77)
+**LeetCode:** [https://leetcode.com/darshankok](https://leetcode.com/darshankok)  
+**Geeks for Geeks:** [https://www.geeksforgeeks.org/profile/darshankok](https://www.geeksforgeeks.org/profile/darshankok)  
+**CodeForces:** [https://codeforces.com/profile/Darshankok](https://codeforces.com/profile/Darshankok)  
+**GitHub:** [https://github.com/darshanr77](https://github.com/darshanr77)
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
+<img height="100" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
 </p>
 
 ---
