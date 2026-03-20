@@ -39,7 +39,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Structures-Problem%20Solving-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-DSA-important?style=for-the-badge"/>
 </p>
 
 ### 🎨 Frontend
