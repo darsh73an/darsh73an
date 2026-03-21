@@ -18,7 +18,6 @@
 ## 🔗 Coding Profiles
 
 **LeetCode:** [https://leetcode.com/darshankok](https://leetcode.com/darshankok)  
-**Geeks for Geeks:** [https://www.geeksforgeeks.org/profile/darshankok](https://www.geeksforgeeks.org/profile/darshankok)  
 **CodeForces:** [https://codeforces.com/profile/Darshankok](https://codeforces.com/profile/Darshankok)  
 **GitHub:** [https://github.com/darshanr77](https://github.com/darshanr77)
 
