@@ -13,7 +13,7 @@
 * 💡 Focused on **Data Structures & Algorithms**
 * 🛠️ Building projects with **C++ & MERN Stack**
 * 🚀 Preparing for **Software Engineering Placements**
-* 🐧 Linux enthusiast
+* 🐧 Learning **Cross Platform Development & React Native** 
 
 ## 🔗 Coding Profiles
 
