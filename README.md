@@ -13,13 +13,15 @@
 * 💡 Focused on **Data Structures & Algorithms**
 * 🛠️ Building projects with **C++ & MERN Stack**
 * 🚀 Preparing for **Software Engineering Placements**
-* 🐧 Learning **Cross Platform Development & React Native** 
+* 🐧 Learning **Cross Platform Development & React Native**
+
+---
 
 ## 🔗 Coding Profiles
 
-**LeetCode:** [https://leetcode.com/darshankok](https://leetcode.com/darshankok)  
-**CodeForces:** [https://codeforces.com/profile/Darshankok](https://codeforces.com/profile/Darshankok)  
-**GitHub:** [https://github.com/darshanr77](https://github.com/darshanr77)
+**LeetCode:** https://leetcode.com/darshankok  
+**CodeForces:** https://codeforces.com/profile/Darshankok  
+**GitHub:** https://github.com/darshanr77  
 
 ---
 
@@ -40,29 +42,24 @@
 <img src="https://img.shields.io/badge/Data%20Structures-Problem%20Solving-blue?style=for-the-badge"/>
 </p>
 
-### 🎨 Frontend
+---
+
+### 🌐 Web Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+---
+
+### 📱 App Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🛠 Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
 ---
