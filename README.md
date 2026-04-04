@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science & Engineering Student
-* 💡 Focused on **Data Structures & Algorithms**
+* 💡 Focused on **Data Structures & Algorithms & App Development**
 * 🛠️ Building projects with **C++ & MERN Stack**
 * 🚀 Preparing for **Software Engineering Placements**
 * 🐧 Learning **Cross Platform Development & React Native**
@@ -28,7 +28,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img height="139" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=darshanr77&theme=dark&cache_seconds=86400"/>
 </p>
 
 ---
@@ -61,5 +61,3 @@
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
-
----
