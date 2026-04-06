@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=DSA+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+Native;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;DSA+%26+App+Development" />
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@
 <a href="https://leetcode.com/darshankok"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/Darshankok"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://github.com/darshanr77"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:darshankok7@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
