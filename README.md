@@ -12,21 +12,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 💡 Focused on **DSA + App Development**  
-- 🛠️ Building with **C++ | MERN Stack**  
-- 🚀 Preparing for **Software Engineering Placements**  
-- 🐧 Exploring **React Native & Cross-Platform Apps**  
+* 🎓 Computer Science & Engineering Student
+* 💡 Focused on **DSA + App Development**
+* 🚀 Preparing for **Software Engineering Placements**
+* 🐧 Exploring **React Native & Cross-Platform Apps**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://leetcode.com/darshankok"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Darshankok"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://github.com/darshanr77"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:darshankok7@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/darshan-r-90340a324/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -51,17 +49,20 @@
 ## 🧠 Tech Stack
 
 ### 💻 Languages & DSA
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
 </p>
 
 ### 🌐 Web Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind" />
 </p>
 
 ### 📱 App Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
@@ -71,10 +72,10 @@
 
 ## 🚀 Current Focus
 
-- 🔥 Mastering **DSA for Placements**
-- 📱 Building **Cross-Platform Apps**
-- 🌐 Creating **Full-Stack Projects**
-- ⚡ Improving **Problem Solving Speed**
+* 🔥 Mastering **DSA for Placements**
+* 📱 Building **Cross-Platform Apps**
+* 🌐 Creating **Full-Stack Projects**
+* ⚡ Improving **Problem Solving Speed**
 
 ---
 
