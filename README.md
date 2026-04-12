@@ -3,10 +3,20 @@
 # Darshan R
 ### Full-Stack Developer · Problem Solver
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/darshanr77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshan-r-90340a324/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshankok7@gmail.com)
-
+<p align="center">
+  <a href="https://github.com/darshanr77">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/darshan-r-90340a324/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:darshankok7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 </div>
 
 ---
