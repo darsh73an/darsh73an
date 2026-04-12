@@ -4,19 +4,20 @@
 ### Full-Stack Developer · Problem Solver
 
 <p align="center">
-  <a href="https://github.com/darshanr77">
-    <img target="blank" src="https://skillicons.dev/icons?i=github" height="40"/>
+  <a href="https://github.com/darshanr77" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://leetcode.com/Darshankok">
-    <img target="blank" src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  <a href="https://leetcode.com/Darshankok" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/darshan-r-90340a324/">
-    <img target="blank" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://www.linkedin.com/in/darshan-r-90340a324/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:darshankok7@gmail.com">
-    <img target="blank" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <a href="mailto:darshankok7@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
+
 </div>
 
 ---
