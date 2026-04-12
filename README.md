@@ -5,16 +5,16 @@
 
 <p align="center">
   <a href="https://github.com/darshanr77">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img target="blank" src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  <a href="https://leetcode.com/Darshankok">
+    <img target="blank" src="https://skillicons.dev/icons?i=leetcode" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/darshan-r-90340a324/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img target="blank" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:darshankok7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img target="blank" src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 </div>
