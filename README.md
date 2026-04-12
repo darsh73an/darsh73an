@@ -1,11 +1,11 @@
 <div align="center">
 
 # Darshan R
-### Full-Stack Developer · DSA Enthusiast · SWE Aspirant
+### Full-Stack Developer · Problem Solver
 
-[![GitHub](https://img.shields.io/badge/GitHub-darshanr77-181717?style=flat-square&logo=github)](https://github.com/darshanr77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_R-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshan-r-90340a324/)
-[![Email](https://img.shields.io/badge/Email-darshankok7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshankok7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/darshanr77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshan-r-90340a324/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshankok7@gmail.com)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 🧩 **Problem solver** — sharp focus on Data Structures & Algorithms
-- 🛠️ **Full-stack builder** — hands-on MERN stack development
-- 🚀 **SWE candidate** — actively preparing for software engineering roles
-- 🐧 **Explorer** — diving into cross-platform app development
+- 🧩 **Problem Solver** — active on LeetCode, focused on Data Structures & Algorithms  
+- 🛠️ **Full-stack builder** — hands-on MERN stack development  
+- 🚀 **Software Engineer** — preparing for real-world engineering roles  
+- 🐧 **Explorer** — diving into cross-platform app development  
 
 ---
 
@@ -24,7 +24,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [📘 DSA](https://github.com/darshanr77) | Curated C++ solutions for DS&A problems with clean implementations | `C++` `Algorithms` |
 | [🤖 Candidate Evaluator](https://github.com/darshanr77/Candidate) | AI-powered tool to assess & rank job candidates | `MERN` `AI` |
 
 ---
@@ -60,5 +59,5 @@
 ---
 
 <div align="center">
-  <sub>⭐ <a href="https://github.com/darshanr77">Darshan R</a> · Open to SWE roles</sub>
+  <sub>⭐ <a href="https://github.com/darshanr77">Darshan R</a> · Open to Software Engineering roles</sub>
 </div>
