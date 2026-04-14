@@ -8,8 +8,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://leetcode.com/Darshankok" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>  </a>
   <a href="https://www.linkedin.com/in/darshan-r-90340a324/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -64,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=darshanr77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 </p>
 
 ---
