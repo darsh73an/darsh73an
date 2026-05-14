@@ -34,7 +34,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 Candidate Evaluator](https://github.com/darshanr77/Candidate) | AI-powered tool to assess & rank job candidates | `MERN` `AI` |
+| [🤖 DevRank AI](https://github.com/darsh73an/DevRank-AI.git) | AI-powered tool to assess & rank job candidates | `MERN` `AI` |
 
 ---
 
