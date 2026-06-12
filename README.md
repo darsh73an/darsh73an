@@ -1,62 +1,56 @@
-<div align="center">
+# Hi there! 👋 I'm Darshan R
 
-# Darshan R
+### 💫 About Me
 
-### Full Stack Developer
+**Full Stack Developer | Next.js | Node.js | AI Applications**
 
-Building scalable web applications and AI-powered products.
+I'm a Computer Science student focused on building full-stack web applications and AI-powered products. I enjoy solving problems, developing scalable applications, and continuously improving my software engineering skills.
 
-[GitHub](https://github.com/darsh73an) • [LinkedIn](https://www.linkedin.com/in/darshan-r-90340a324/) • [LeetCode](https://leetcode.com/u/Darshankok) • [darshankok7@gmail.com](mailto:darshankok7@gmail.com)
+### 🌐 Connect With Me
 
-</div>
-
----
-
-## About Me
-
-* Computer Science Student (2023–2027)
-* Full Stack Developer
-* Strong in DSA, REST APIs, and Backend Development
-* Linux & Docker User
+* 💼 LinkedIn: https://www.linkedin.com/in/darshan-r-90340a324/
+* 🧩 LeetCode: https://leetcode.com/u/Darshankok
+* 📧 Email: [darshankok7@gmail.com](mailto:darshankok7@gmail.com)
 
 ---
 
-## Projects
+## 💻 Tech Stack
 
-### DevRank
+### Languages
 
-AI-powered platform for evaluating developers using GitHub, LeetCode, Codeforces, and HackerRank data.
+C++ • JavaScript • TypeScript
 
-**Stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI
+### Frontend
 
-### MockMate
+React • Next.js • Tailwind CSS • React Native
 
-AI-powered mock interview platform with automated feedback and interview reports.
+### Backend
 
-**Stack:** Next.js, Node.js, Express.js, MongoDB, OpenAI
+Node.js • Express.js • REST APIs
 
----
+### Databases
 
-## Tech Stack
+MongoDB • PostgreSQL
 
-**Languages:** C++, JavaScript, TypeScript
+### Tools & DevOps
 
-**Frontend:** React, Next.js, Tailwind CSS
-
-**Backend:** Node.js, Express.js
-
-**Database:** MongoDB, PostgreSQL
-
-**Tools:** Git, Docker, Linux, Postman
+Docker • Git • Linux • Postman
 
 ---
 
-## Stats
+## 🚀 What I'm Working On
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=darsh73an&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+* Building AI-powered developer tools
+* Improving DSA and problem-solving skills
+* Developing full-stack web applications
+* Exploring scalable backend architectures
 
 ---
 
-⭐ Open to Software Engineering Internships & Opportunities
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darsh73an\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsh73an\&layout=compact\&theme=tokyonight\&hide_border=true)
