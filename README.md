@@ -8,33 +8,35 @@ I'm a Computer Science student focused on building full-stack web applications a
 
 ### 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/darshan-r-90340a324/
-* 🧩 LeetCode: https://leetcode.com/u/Darshankok
-* 📧 Email: [darshankok7@gmail.com](mailto:darshankok7@gmail.com)
-
+[💼 LinkedIn](https://www.linkedin.com/in/darshan-r-90340a324/) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [📧 Email](mailto:darshankok7@gmail.com)
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-
-C++ • JavaScript • TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
 
 ### Frontend
-
-React • Next.js • Tailwind CSS • React Native
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Backend
-
-Node.js • Express.js • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Databases
-
-MongoDB • PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
 ### Tools & DevOps
-
-Docker • Git • Linux • Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
+</p>
 
 ---
 
