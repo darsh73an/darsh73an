@@ -2,41 +2,59 @@
 
 ### 💫 About Me
 
-**Full Stack Developer | Next.js | Node.js | AI Applications**
+**Full Stack Developer | DSA Problem Solver (C++)**
 
 I'm a Computer Science student focused on building full-stack web applications and AI-powered products. I enjoy solving problems, developing scalable applications, and continuously improving my software engineering skills.
 
 ### 🌐 Connect With Me
 
 [💼 LinkedIn](https://www.linkedin.com/in/darshan-r-90340a324/) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [📧 Email](mailto:darshankok7@gmail.com)
+
 ---
 
 ## 💻 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+</td>
+
+<td valign="top" width="50%">
+
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Tools & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
