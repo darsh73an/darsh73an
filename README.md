@@ -14,47 +14,30 @@ I'm a Computer Science student focused on building full-stack web applications a
 
 ## 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts&perline=6" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=6" />
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-</td>
-
-<td valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=6" />
 
 ### Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman&perline=6" />
 
-</td>
-</tr>
-</table>
+</div>
+
 
 ---
 
