@@ -30,7 +30,7 @@ AI-powered placement preparation platform with personalized roadmaps, mock inter
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,postman,vscode,linux&perline=16" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,postman,vscode,linux&perline=16" />
 </p>
 
 ---
