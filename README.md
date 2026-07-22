@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Darshan R
 
-### 💫 Full Stack Developer | Building AI-powered Products
+### 💫 Full Stack Developer
 
 Building scalable web applications and AI-powered tools while sharpening my problem-solving skills through DSA.
 
