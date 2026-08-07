@@ -7,7 +7,7 @@
 Building scalable web applications and AI-powered tools while sharpening my problem-solving skills through DSA.
 
 ### 🌐 Connect With Me
-[💼 LinkedIn](https://www.linkedin.com/in/darshan-r-90340a324/) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [📧 Email](mailto:darshankok7@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/darsh73an) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [📧 Email](mailto:darshankok7@gmail.com)
 
 </div>
 
