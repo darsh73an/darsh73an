@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Darshan R
 
-### 💫 Full Stack Developer
+### 💫 MERN Stack Developer
 
 Building scalable web applications and AI-powered tools while sharpening my problem-solving skills through DSA.
 
@@ -30,7 +30,7 @@ AI-powered placement preparation platform with personalized roadmaps, mock inter
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,postman,vscode,linux&perline=16" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,postgres,docker,git,postman,linux&perline=16" />
 </p>
 
 ---
