@@ -45,16 +45,6 @@ AI-powered placement preparation platform with personalized roadmaps, mock inter
 
 ---
 
-## 🧩 DSA Progress
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-88%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
