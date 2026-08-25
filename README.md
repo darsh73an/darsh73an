@@ -19,26 +19,14 @@ Building scalable web applications and AI-powered tools while sharpening my prob
 ## 🚀 Featured Projects
 
 ### 🧠 DevRank
-**AI-Powered Developer Evaluation & Recruitment Platform**
-
-- Aggregates developer data from **GitHub, LeetCode, Codeforces, HackerRank & other sources** into a unified developer profile.
-- Generates an **explainable developer score** using coding activity, problem-solving, projects, skills, experience, and other technical signals.
-- Uses **verification, evidence tracking, and data-confidence scoring** to distinguish verified data from self-reported information.
-- Provides **AI-powered candidate insights, skill-gap analysis, and job-specific matching**.
-- Includes a **Recruiter Dashboard** for candidate search, comparison, ranking, verification, shortlisting, and hiring decisions.
-
-**Tech:** `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `OpenAI API`
+AI-powered developer evaluation and interview-readiness platform with multi-source developer profiling, role-based scoring, skill-gap analysis, and personalized guidance.
 
 🔗 [Repository](https://github.com/darsh73an/devrank)
 
----
+### ⚡ Redis Clone
+A Redis-inspired in-memory key-value database built from scratch in **C++**, focusing on networking, TCP sockets, parsing, data storage, concurrency, and systems programming.
 
-### 🎯 MockMate
-AI-powered placement preparation platform with personalized roadmaps, mock interviews, resume analysis, DSA tracking, and progress monitoring.
-
-**Tech:** `Next.js` `Node.js` `Express.js` `MongoDB` `OpenAI API`
-
-🔗 [Repository](https://github.com/darsh73an/mockmate)
+🔗 [Repository](https://github.com/darsh73an/redis-clone)
 
 ---
 
