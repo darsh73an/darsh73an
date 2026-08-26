@@ -44,7 +44,6 @@ A Redis-inspired in-memory key-value database built from scratch in **C++**, foc
 - **Low-Level Design (LLD)**
 - System Design
 - Backend Architecture & REST APIs
-- AI Engineering & LLM Integration
 - Docker & Production Deployment
 
 ---
