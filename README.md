@@ -33,7 +33,7 @@ A Redis-inspired in-memory key-value database built from scratch in **C++**, foc
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,postman,linux,ubuntu&perline=14" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,postman,linux,ubuntu&perline=14" />
 </p>
 
 
