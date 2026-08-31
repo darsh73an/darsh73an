@@ -8,7 +8,7 @@ Building scalable web applications and AI-powered tools while sharpening my prob
 
 ### 🌐 Connect With Me
 
-[💼 LinkedIn](https://www.linkedin.com/in/darsh73an) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [📧 Email](mailto:darshankok7@gmail.com) • [📄 Resume](https://your-resume-link-here.com)
+[💼 LinkedIn](https://www.linkedin.com/in/darsh73an) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [🧑‍💻 GFG](https://www.geeksforgeeks.org/profile/darshankok) • [📧 Email](mailto:darshankok7@gmail.com) • [📄 Resume](https://your-resume-link-here.com)
 
 🎯 Currently sharpening DSA in **C++** | Open to SDE Internship opportunities
 
@@ -42,8 +42,7 @@ A Redis-inspired in-memory key-value database built from scratch in **C++**, foc
 ## 🧠 Currently Learning
 
 - Data Structures & Algorithms with **C++**
-- **Low-Level Design (LLD)**
-- System Design
+- **System Design (LLD)**
 - Backend Architecture & REST APIs
 - Docker & Production Deployment
 </div>
