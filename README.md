@@ -10,7 +10,7 @@ Building scalable web applications and AI-powered tools while sharpening my prob
 
 [💼 LinkedIn](https://www.linkedin.com/in/darsh73an) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [🧑‍💻 GFG](https://www.geeksforgeeks.org/profile/darshankok) • [📧 Email](mailto:darshankok7@gmail.com) • [📄 Resume](https://your-resume-link-here.com)
 
-🎯 Currently sharpening DSA in **C++** | Open to SDE Internship opportunities
+🎯 Sharpening DSA in **C++** | Open to SDE Opportunities
 
 </div>
 
