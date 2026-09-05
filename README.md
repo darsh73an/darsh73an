@@ -16,7 +16,7 @@ Building scalable web applications and AI-powered tools while sharpening my prob
 
 ---
 
-## 🚀 Featured Projects
+##  Projects
 
 ### 🧠 DevRank
 AI-powered developer evaluation and interview-readiness platform with multi-source developer profiling, role-based scoring, skill-gap analysis, and personalized guidance.
