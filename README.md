@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer
 
-Building scalable web applications and AI-powered tools while sharpening my problem-solving skills through DSA.
+Building scalable web applications and AI-powered tools while mastering DSA, LLD, and core CS fundamentals.
 
 ### 🌐 Connect With Me
 
