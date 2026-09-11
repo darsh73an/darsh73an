@@ -1,18 +1,12 @@
-<div align="center">
-
 # Hi there! 👋 I'm Darshan R
 
-### 💻 Full-Stack Developer
+### Software Engineer | DSA & System Design | Full-Stack (MERN)
 
-Building scalable web applications and AI-powered tools while mastering DSA, LLD, and core CS fundamentals.
+Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
-### 🌐 Connect With Me
-
-[💼 LinkedIn](https://www.linkedin.com/in/darsh73an) • [🧩 LeetCode](https://leetcode.com/u/Darshankok) • [🧑‍💻 GFG](https://www.geeksforgeeks.org/profile/darshankok) • [📧 Email](mailto:darshankok7@gmail.com) • [📄 Resume](https://your-resume-link-here.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/darsh73an) • [LeetCode](https://leetcode.com/u/Darshankok) • [GFG](https://www.geeksforgeeks.org/profile/darshankok) • [Email](mailto:darshankok7@gmail.com) • [Resume](https://your-resume-link-here.com)
 
 🎯 Sharpening DSA in **C++** | Open to SDE Opportunities
-
-</div>
 
 ---
 
