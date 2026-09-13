@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Darshan R
 
-### Software Engineer | DSA & System Design | Full-Stack (MERN)
+### Software Engineer | DSA & System Design (LLD) | Full-Stack (MERN)
 
 Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
