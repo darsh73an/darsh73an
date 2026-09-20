@@ -28,9 +28,17 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,postman,linux,ubuntu&perline=15" />
-</p>
+**Languages:** C++, JavaScript, TypeScript
+
+**Frontend:** React.js, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Databases:** MongoDB, PostgreSQL
+
+**Tools & Technologies:** Docker, Git, GitHub, Postman
+
+**Environment:** Linux, Ubuntu
 
 ---
 
@@ -50,3 +58,4 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 ![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an\&theme=dark\&hide_border=true)
 
 </div>
+  
