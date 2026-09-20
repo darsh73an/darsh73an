@@ -36,7 +36,7 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 **Databases:** MongoDB, PostgreSQL
 
-**Tools & Technologies:** Docker, Git, GitHub, Postman
+**Tools & Technologies:** Docker, Git, Postman
 
 **Environment:** Linux, Ubuntu
 
