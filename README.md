@@ -10,27 +10,25 @@ Building scalable systems and web applications while mastering DSA, LLD, and cor
 
 ---
 
-##  Projects
+## Projects
 
 ### 🧠 DevRank
 AI-powered developer evaluation and interview-readiness platform with multi-source developer profiling, role-based scoring, skill-gap analysis, and personalized guidance.
 
 🔗 [Repository](https://github.com/darsh73an/devrank)
 
-### ⚡ Redis Clone
-A Redis-inspired in-memory key-value database built from scratch in **C++**, focusing on networking, TCP sockets, parsing, data storage, concurrency, and systems programming.
+### 🐞 Errsight
+A lightweight error tracking platform that captures, groups, and monitors application errors in real time — built with a focus on clean architecture, efficient ingestion pipelines, and actionable developer insights.
 
-🔗 [Repository](https://github.com/darsh73an/redis-clone)
+🔗 [Repository](https://github.com/darsh73an/errsight)
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,postman,linux,ubuntu&perline=14" />
-</p>
-
-
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,postman,linux,ubuntu&perline=14" /&gt;
+&lt;/p&gt;
 
 ---
 
@@ -40,4 +38,13 @@ A Redis-inspired in-memory key-value database built from scratch in **C++**, foc
 - **System Design (LLD)**
 - Backend Architecture & REST APIs
 - Docker & Production Deployment
-</div>
+
+---
+
+## 🔥 My Streak
+
+&lt;div align="center"&gt;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+&lt;/div&gt;
