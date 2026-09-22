@@ -28,7 +28,7 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 ## 💻 Tech Stack
 
-**Languages:** C++, JavaScript, TypeScript
+**Languages:** C++, JavaScript, TypeScript, Java
 
 **Frontend:** React.js, Next.js, Tailwind CSS
 
@@ -36,7 +36,7 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 **Databases:** MongoDB, PostgreSQL
 
-**Tools & Technologies:** Docker, Git, Postman
+**DevOps & Tools:** Docker, Git, GitHub, Postman, VS Code
 
 **Environment:** Linux, Ubuntu
 
