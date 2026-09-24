@@ -4,7 +4,7 @@
 
 Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
-[LinkedIn](https://www.linkedin.com/in/darsh73an) • [LeetCode](https://leetcode.com/u/Darshankok) • [Codeforces](https://codeforces.com/profile/Darshankok) • [GFG](https://www.geeksforgeeks.org/profile/darshankok) • [Email](mailto:darshankok7@gmail.com) • [Resume](https://your-resume-link-here.com)
+[LinkedIn](https://www.linkedin.com/in/darsh73an) • [LeetCode](https://leetcode.com/u/Darshankok) • [Email](mailto:darshankok7@gmail.com) • [Resume](https://your-resume-link-here.com)
 
 🎯 Sharpening DSA in **C++** | Open to SDE Opportunities
 
