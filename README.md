@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Darshan R
 
-### Full-Stack Developer  |  DSA (C++) & System Design (LLD)
+### Software Development Engineer  |  DSA (C++) & System Design (LLD)
 
 Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
