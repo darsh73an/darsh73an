@@ -38,6 +38,6 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an&theme=dark&hide_border=true&card_width=350)
 
 </div>
