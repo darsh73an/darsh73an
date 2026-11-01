@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Darshan R
 
-### Software Development Engineer | DSA (C++) & System Design (LLD)
+###  CSE Student @SVCE | Software Development Engineer | DSA (C++) 
 
 Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
