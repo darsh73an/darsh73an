@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Darshan R
 
-###  CSE Student @SVCE | Software Development Engineer | DSA (C++) 
+###  CSE Student @ SVCE | Software Development Engineer | Data Structures & Algorithms
 
 Building scalable systems and web applications while mastering DSA, LLD, and core CS fundamentals.
 
@@ -29,7 +29,7 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 - **Languages:** C++, JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB, PostgreSQL, Redis
 - **DevOps & Tools:** Docker, Git, GitHub Actions (CI/CD), Postman, Linux
 
 ---
