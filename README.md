@@ -4,7 +4,7 @@
 
 Building scalable systems and web applications while mastering DSA, LLD (System Design)
 
-[LinkedIn](https://www.linkedin.com/in/darsh73an) • [LeetCode](https://leetcode.com/u/Darshankok) • [Email](mailto:darshankok7@gmail.com) • [Resume](https://drive.google.com/file/d/1CCu57Z6EYp8WTKMt0vHwjx-_sb--RXR7/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/darsh73an) • [LeetCode](https://leetcode.com/u/Darshankok) • [Email](mailto:darsh73an@gmail.com) • [Resume](https://drive.google.com/file/d/1CCu57Z6EYp8WTKMt0vHwjx-_sb--RXR7/view?usp=sharing)
 
 ---
 
