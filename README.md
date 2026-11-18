@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Darshan R
 
-###  CSE Student @ SVCE | Software Development Engineer | Data Structures & Algorithms
+###  CSE Student @ SVCE (Banglore) | Software Development Engineer | DSA (C++)
 
 Building scalable systems and web applications while mastering DSA, LLD (System Design)
 
