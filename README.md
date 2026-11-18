@@ -4,17 +4,17 @@
 
 Building scalable systems and web applications while mastering DSA, LLD (System Design)
 
-<a href="https://www.linkedin.com/in/darsh73an" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a> •
-<a href="https://leetcode.com/u/Darshankok" target="_blank">
-  <i class="fas fa-code"></i> LeetCode
-</a> •
+<a href="https://www.linkedin.com/in/darsh73an">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Darshankok">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+</a>
 <a href="mailto:darsh73an@gmail.com">
-  <i class="fas fa-envelope"></i> Email
-</a> •
-<a href="https://drive.google.com/file/d/1CCu57Z6EYp8WTKMt0vHwjx-_sb--RXR7/view?usp=sharing" target="_blank">
-  <i class="fas fa-file-pdf"></i> Resume
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://drive.google.com/file/d/1CCu57Z6EYp8WTKMt0vHwjx-_sb--RXR7/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-555555?style=flat&logo=googledrive&logoColor=white"/>
 </a>
 
 ---
