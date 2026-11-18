@@ -13,7 +13,7 @@ Building scalable systems and web applications while mastering DSA, LLD (System 
 <a href="mailto:darsh73an@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/file/d/1CCu57Z6EYp8WTKMt0vHwjx-_sb--RXR7/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1jookNij8SF8e4GxlumBSyQUfEIRrsKYm/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-555555?style=flat&logo=googledrive&logoColor=white"/>
 </a>
 
