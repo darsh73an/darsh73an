@@ -37,12 +37,6 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 
 ## 💻 Tech Stack
 
-- **Languages:** C++, JavaScript, TypeScript, SQL
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Redis, BullMQ
-- **Databases & ORM:** MongoDB, PostgreSQL, Prisma, Mongoose
-- **DevOps & Tools:** Docker, Git, GitHub Actions (CI/CD), Postman, Linux
-
 - **Languages:** TypeScript, JavaScript, C++, SQL
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, GraphQL, BullMQ, JWT Authentication
