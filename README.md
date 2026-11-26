@@ -49,5 +49,7 @@ A lightweight error tracking platform that captures, groups, and monitors applic
 ## 🔥 My Streak
 
 <div align="center">
+  
   ![GitHub Streak](https://streak-stats.demolab.com?user=darsh73an&theme=radical&hide_border=true)
+  
 </div>
